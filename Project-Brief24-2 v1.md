@@ -71,7 +71,7 @@
 
 
 # Team-04
-| (1) 과제명 | Lightweighting CLIP for Face Anti-Spoofing via Knowledge Distillation
+| (1) 과제명 | T-FLIP: Lightweighting CLIP for Face Anti-Spoofing via Knowledge Distillation
 |:---  |---  |
 | (2) 팀 번호 / 팀 이름 | 04-티라노 |
 | (3) 팀원 역할 분담 |  박지원(2076169) : 리더, AI 모델 개발   <br> 류이정(2176129) : 팀원, AI 모델 개발   <br> 소예림(2071028) : 팀원, AI 모델 개발  |
